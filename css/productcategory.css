@@ -1,0 +1,44 @@
+.shoplist{
+    margin-left: 15%;
+    margin-right: 22%;
+    border: cornflowerblue solid 0.5px; 
+    /* display: none; */
+}
+
+.classifier{
+    height: 20%;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 10%;
+}
+
+button{
+    border-radius: 8px;
+    background-color: white;
+    border-style: none;
+    border-bottom-style: groove;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    float: left;
+    width: 120px;
+    height: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#phone{
+    background-image: url("../img/phone.svg"); 
+}
+
+#computer{
+    background-image: url("../img/computer.svg"); 
+}
+
+#pad{
+    background-image: url("../img/pad.svg"); 
+}
+
+button div{
+    margin-top: 50%;
+}

@@ -1,0 +1,119 @@
+.orderList{
+    width: 100%;
+    margin-top: 5%;
+}
+
+.orderTable{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.order{
+    padding: 5px;
+    background-color: oldlace;
+    height: 90px;
+    border: blue 0.5px solid;
+}
+
+.orderNumber{
+    float: left;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.order img{
+    height: 90px;
+    margin-left: 30px;
+    float: left;
+}
+
+.goodsContent{
+    height: 90px;
+    margin-left: 30px;
+    width: 60%;
+    float: left;
+}
+
+.goodsTitle{
+    width: 50%;
+    float: left;
+    margin-top: 15px;
+}
+
+.goodsPrice{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.goodsNumber{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.goodsTotal{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.btn{
+    border-radius: 8px;
+    width: 80px;
+    height: 40px;
+    float: left;
+    background: #4c84ff;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: large;
+}
+
+.bottom{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    background-color: lightcyan;
+    border: lightgrey;
+    border-style: solid;
+    border-width: 0.5px;
+}
+
+.bottom input{
+    float: left;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+.total{
+    float: left;
+    margin-right: 20%;
+    margin-top: 15px;
+    font-size: large;
+    margin-left: 6%;
+    color: red;
+}
+
+#buy{
+    float: left;
+    background-color: orangered;
+    width: 200px;
+    margin-left: 15%;
+    margin-top: 5px;
+}
+
+.bottom h{
+    float: left;
+    margin-right: 20%;
+    margin-top: 15px;
+    font-size: large;
+    margin-left: 1%;
+}
+
+.noresult{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 20%;
+    /* display: none; */
+}

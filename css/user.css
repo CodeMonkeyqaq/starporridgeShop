@@ -1,0 +1,92 @@
+.info{
+    margin-left: -5px;
+    /* margin-top: ; */
+    width: 100%;
+}
+
+.info img{
+    margin-left: 30%;
+    margin-top: 5%;
+    float: left;
+}
+
+.username{
+    font-size: x-large;
+    float: left;
+    margin-top: 12%;
+    margin-left: 10%;
+    width: 20%;
+    height: 10%;
+}
+
+#divider{
+    transform: translateY(20px);
+}
+
+.orderList{
+    width: 100%;
+    margin-top: 2%;
+}
+
+.orderTable{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.order{
+    padding: 5px;
+    background-color: oldlace;
+    height: 90px;
+    border: blue 0.5px solid;
+}
+
+.orderNumber{
+    float: left;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+.order img{
+    height: 90px;
+    margin-left: 30px;
+    float: left;
+}
+
+.goodsContent{
+    height: 90px;
+    margin-left: 30px;
+    width: 60%;
+    float: left;
+}
+
+.goodsTitle{
+    width: 50%;
+    float: left;
+    margin-top: 15px;
+}
+
+.goodsPrice{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.goodsNumber{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.goodsTotal{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+h{
+    font-size: x-large;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
